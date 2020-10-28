@@ -2,3 +2,4 @@ Zmiana07a
 Zmiana08
 Zmiana10
 Zmiana12wClonie
+Zmiana13
